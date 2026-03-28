@@ -11,6 +11,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img alt="Yarn" src="https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=yarn&logoColor=white"/>
 </p>
 
 ---
