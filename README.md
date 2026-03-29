@@ -1,4 +1,4 @@
-<h1 align="center">🛒 E-Commerce</h1>
+<h1 align="center">🛒 MyShop</h1>
 
 <p align="center">
   Aplicação web de e-commerce moderna e responsiva, desenvolvida com React, TypeScript e gerenciamento de estado com Redux.
@@ -18,7 +18,7 @@
 
 ## 📋 Sobre o projeto
 
-O **E-Commerce** é uma aplicação de loja virtual desenvolvida com foco em boas práticas de desenvolvimento front-end. Utiliza **React 19** com **TypeScript** para garantir um código mais seguro e escalável, **Redux Toolkit** para gerenciamento global de estado (como carrinho de compras), **Styled Components** para estilização moderna dos componentes, e **Axios** para comunicação com APIs externas.
+O **MyShop** é uma aplicação de loja virtual desenvolvida com foco em boas práticas de desenvolvimento front-end. Utiliza **React 19** com **TypeScript** para garantir um código mais seguro e escalável, **Redux Toolkit** para gerenciamento global de estado (como carrinho de compras), **Styled Components** para estilização moderna dos componentes, e **Axios** para comunicação com APIs externas.
 
 ---
 
@@ -59,10 +59,10 @@ O **E-Commerce** é uma aplicação de loja virtual desenvolvida com foco em boa
 
 ```bash
 # Clone o repositório
-git clone https://github.com/dhiogoFrutuoso/E-Commerce.git
+git clone https://github.com/dhiogoFrutuoso/MyShop.git
 
 # Acesse a pasta do projeto
-cd E-Commerce
+cd MyShop
 
 # Instale as dependências
 yarn install
@@ -89,7 +89,7 @@ Acesse **http://localhost:3000** no seu navegador.
 ## 📁 Estrutura do projeto
 
 ```
-E-Commerce/
+MyShop/
 ├── public/          # Arquivos públicos (index.html, favicon...)
 ├── src/             # Código-fonte da aplicação
 │   ├── components/  # Componentes reutilizáveis
